@@ -19,7 +19,7 @@ python model.py test
 | hidden_size  | 300 | 隐藏层 |
 | alpha  | 0.001 | 正则化参数 |
 | lr_decay_rate  | 0.99 | 学习率衰减 |
-| weight_init_std  | 0.99 |权重初始化 |
+| weight_init_std  | 0.01 |权重初始化 |
 | epoch  | 130 | 周期 |
 
 ##### 训练结果可视化：
