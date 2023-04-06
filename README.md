@@ -35,3 +35,7 @@ W1表现了图像更底层的信息
 W2表现了图像较高层的信息，开始出现一些小单位结构
 
 ![W2](https://github.com/LikeGotoLF/NerualNet_HW1/blob/main/W2.jpg)
+
+### 测试部分
+##### 模型文件百度云链接：链接: https://pan.baidu.com/s/1_FxGpt108flABy3bdjhNcA?pwd=yzyg 提取码: yzyg
+##### 最终模型对测试集的预测准确率达到98.03%。
