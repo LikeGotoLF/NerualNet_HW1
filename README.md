@@ -26,5 +26,7 @@ python model.py test
 损失与准确率变化：
 ![loss and acc](https://github.com/LikeGotoLF/NerualNet_HW1/blob/main/loss_acc.jpg)
 权重可视化：
+W1表现了图像更底层的信息
 ![W1](https://github.com/LikeGotoLF/NerualNet_HW1/blob/main/W1.jpg)
+W2表现了图像较高层的信息，开始出现一些小单位结构
 ![W2](https://github.com/LikeGotoLF/NerualNet_HW1/blob/main/W2.jpg)
