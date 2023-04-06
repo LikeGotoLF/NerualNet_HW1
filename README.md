@@ -22,5 +22,9 @@ python model.py test
 | weight_init_std  | 0.99 |权重初始化 |
 | epoch  | 130 | 周期 |
 
-训练结果可视化：
-https://github.com/LikeGotoLF/NerualNet_HW1/blob/main/loss_acc.jpg
+##### 训练结果可视化：
+损失与准确率变化：
+![loss and acc](https://github.com/LikeGotoLF/NerualNet_HW1/blob/main/loss_acc.jpg)
+权重可视化：
+![W1](https://github.com/LikeGotoLF/NerualNet_HW1/blob/main/W1.jpg)
+![W2](https://github.com/LikeGotoLF/NerualNet_HW1/blob/main/W2.jpg)
