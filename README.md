@@ -1,5 +1,5 @@
 # NerualNet_HW1
-构建两层神经网络分类器
+Numpy构建两层神经网络分类器
 
 数据集为mnist，请自行下载并解压缩至NerualNet_HW1/data下，在mnist.py和model.py文件内修改路径。
 
