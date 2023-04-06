@@ -1,0 +1,652 @@
+---------epoch 1---------
+train loss 0.045018108722527865
+test loss 0.025830755306940484
+train acc 0.8774213209219859
+test acc 0.9204
+---------epoch 2---------
+train loss 0.02040152635212383
+test loss 0.01979371709004366
+train acc 0.9411181294326242
+test acc 0.9365
+---------epoch 3---------
+train loss 0.015900216806689935
+test loss 0.016753995224475158
+train acc 0.9539228723404255
+test acc 0.9465
+---------epoch 4---------
+train loss 0.013217908013911704
+test loss 0.014803887968381814
+train acc 0.9627271719858157
+test acc 0.9519
+---------epoch 5---------
+train loss 0.011352649138370802
+test loss 0.01337221644741134
+train acc 0.9679742907801417
+test acc 0.9577
+---------epoch 6---------
+train loss 0.00993832611263304
+test loss 0.012346964141802141
+train acc 0.9719137854609928
+test acc 0.9608
+---------epoch 7---------
+train loss 0.008828811316524876
+test loss 0.011531760415951338
+train acc 0.9755707003546098
+test acc 0.9637
+---------epoch 8---------
+train loss 0.007922119972405587
+test loss 0.01088079545477184
+train acc 0.9783577127659574
+test acc 0.9655
+---------epoch 9---------
+train loss 0.007166498549457557
+test loss 0.010343528579738638
+train acc 0.9805851063829787
+test acc 0.9674
+---------epoch 10---------
+train loss 0.00652162374651786
+test loss 0.009866255751977497
+train acc 0.9828069592198583
+test acc 0.9684
+---------epoch 11---------
+train loss 0.005962193946421549
+test loss 0.009480428015269582
+train acc 0.984552304964539
+test acc 0.9697
+---------epoch 12---------
+train loss 0.005472698196220413
+test loss 0.009149356121414086
+train acc 0.9861591312056737
+test acc 0.9711
+---------epoch 13---------
+train loss 0.005036458866203305
+test loss 0.00886561187884408
+train acc 0.9875720301418439
+test acc 0.9719
+---------epoch 14---------
+train loss 0.004648380584229526
+test loss 0.008630225602211569
+train acc 0.9887466755319149
+test acc 0.9721
+---------epoch 15---------
+train loss 0.004299506871975728
+test loss 0.008431085196179022
+train acc 0.9898271276595745
+test acc 0.9729
+---------epoch 16---------
+train loss 0.003984239620161243
+test loss 0.008270014643946033
+train acc 0.9906416223404255
+test acc 0.9729
+---------epoch 17---------
+train loss 0.00370144939653454
+test loss 0.008139556658095386
+train acc 0.9915226063829787
+test acc 0.9733
+---------epoch 18---------
+train loss 0.0034434589028759705
+test loss 0.008019923455610603
+train acc 0.9923537234042553
+test acc 0.9733
+---------epoch 19---------
+train loss 0.0032087969557394874
+test loss 0.007926578018789484
+train acc 0.9930186170212766
+test acc 0.9739
+---------epoch 20---------
+train loss 0.0029962258287005287
+test loss 0.007839493696740073
+train acc 0.9936336436170212
+test acc 0.9743
+---------epoch 21---------
+train loss 0.0028018749173099114
+test loss 0.007773498088805608
+train acc 0.9943317819148936
+test acc 0.9745
+---------epoch 22---------
+train loss 0.0026228279662363404
+test loss 0.007704643156876416
+train acc 0.9949634308510639
+test acc 0.9745
+---------epoch 23---------
+train loss 0.002458176006586467
+test loss 0.007645763384522232
+train acc 0.9953789893617021
+test acc 0.9747
+---------epoch 24---------
+train loss 0.002305855913529724
+test loss 0.007588131009770034
+train acc 0.9960272606382978
+test acc 0.9752
+---------epoch 25---------
+train loss 0.0021666407729329074
+test loss 0.0075488381438222904
+train acc 0.9965425531914893
+test acc 0.9752
+---------epoch 26---------
+train loss 0.002038293648512561
+test loss 0.00751272001412094
+train acc 0.9969414893617021
+test acc 0.9756
+---------epoch 27---------
+train loss 0.0019196910264652359
+test loss 0.007476820155095662
+train acc 0.9972739361702128
+test acc 0.9759
+---------epoch 28---------
+train loss 0.0018105403531256717
+test loss 0.007449441200461496
+train acc 0.9975398936170212
+test acc 0.9764
+---------epoch 29---------
+train loss 0.0017100002043883202
+test loss 0.007424900280106612
+train acc 0.9977726063829787
+test acc 0.9766
+---------epoch 30---------
+train loss 0.0016154157973064754
+test loss 0.007401172093815984
+train acc 0.9980385638297873
+test acc 0.9769
+---------epoch 31---------
+train loss 0.0015297106665205277
+test loss 0.007379943940287971
+train acc 0.9982380319148936
+test acc 0.9771
+---------epoch 32---------
+train loss 0.0014485792330723756
+test loss 0.007369749055818347
+train acc 0.9985039893617021
+test acc 0.9771
+---------epoch 33---------
+train loss 0.0013741698760083355
+test loss 0.007350370340244447
+train acc 0.9985704787234042
+test acc 0.9775
+---------epoch 34---------
+train loss 0.0013048738725772902
+test loss 0.007333389686289729
+train acc 0.9987699468085106
+test acc 0.9777
+---------epoch 35---------
+train loss 0.001240479012090552
+test loss 0.007331541145049626
+train acc 0.9988696808510639
+test acc 0.9778
+---------epoch 36---------
+train loss 0.0011801737352184144
+test loss 0.007319316088180978
+train acc 0.9990026595744681
+test acc 0.9781
+---------epoch 37---------
+train loss 0.0011238955215072185
+test loss 0.007312661519609172
+train acc 0.9990857712765957
+test acc 0.9783
+---------epoch 38---------
+train loss 0.0010719475231159444
+test loss 0.007307142528667844
+train acc 0.99921875
+test acc 0.9782
+---------epoch 39---------
+train loss 0.0010229541678594732
+test loss 0.0073056910063600666
+train acc 0.9993184840425532
+test acc 0.9783
+---------epoch 40---------
+train loss 0.0009773620836402155
+test loss 0.00730734445018896
+train acc 0.9994348404255319
+test acc 0.9786
+---------epoch 41---------
+train loss 0.0009345267500483021
+test loss 0.007300243377913651
+train acc 0.9994847074468085
+test acc 0.9787
+---------epoch 42---------
+train loss 0.0008949394658367331
+test loss 0.007303388951436707
+train acc 0.9995179521276596
+test acc 0.9786
+---------epoch 43---------
+train loss 0.0008575688998778182
+test loss 0.007303170780605565
+train acc 0.9996010638297872
+test acc 0.9789
+---------epoch 44---------
+train loss 0.0008221626720346579
+test loss 0.0073046145669813465
+train acc 0.9996675531914894
+test acc 0.9789
+---------epoch 45---------
+train loss 0.0007892695988567071
+test loss 0.00730778727787908
+train acc 0.9997007978723405
+test acc 0.9789
+---------epoch 46---------
+train loss 0.0007583320685383002
+test loss 0.007314064073258255
+train acc 0.999717420212766
+test acc 0.9791
+---------epoch 47---------
+train loss 0.0007289797230685278
+test loss 0.007319992724324449
+train acc 0.9997672872340425
+test acc 0.9792
+---------epoch 48---------
+train loss 0.0007015326911629354
+test loss 0.007326586290113468
+train acc 0.9997672872340425
+test acc 0.979
+---------epoch 49---------
+train loss 0.0006758700186424308
+test loss 0.007332621701270127
+train acc 0.9998005319148936
+test acc 0.9791
+---------epoch 50---------
+train loss 0.0006515789428143974
+test loss 0.007337159152632735
+train acc 0.9998005319148936
+test acc 0.9791
+---------epoch 51---------
+train loss 0.000628623297945791
+test loss 0.0073469278081893285
+train acc 0.9998171542553191
+test acc 0.9792
+---------epoch 52---------
+train loss 0.0006068333182852077
+test loss 0.007352478391016822
+train acc 0.9998337765957447
+test acc 0.9792
+---------epoch 53---------
+train loss 0.0005863632342623104
+test loss 0.00736309050518938
+train acc 0.9998503989361702
+test acc 0.9793
+---------epoch 54---------
+train loss 0.0005670746398149401
+test loss 0.0073685333351558935
+train acc 0.9998503989361702
+test acc 0.9793
+---------epoch 55---------
+train loss 0.0005485592135684584
+test loss 0.007376449850117965
+train acc 0.9998836436170213
+test acc 0.9793
+---------epoch 56---------
+train loss 0.0005310125459927999
+test loss 0.007385765992987321
+train acc 0.9999002659574469
+test acc 0.9793
+---------epoch 57---------
+train loss 0.0005147313251846058
+test loss 0.007392089184801808
+train acc 0.9999168882978723
+test acc 0.9794
+---------epoch 58---------
+train loss 0.0004987750670161888
+test loss 0.007401844905774626
+train acc 0.9999335106382978
+test acc 0.9793
+---------epoch 59---------
+train loss 0.0004839162275222387
+test loss 0.007407631639234953
+train acc 0.9999335106382978
+test acc 0.9793
+---------epoch 60---------
+train loss 0.000469903018100891
+test loss 0.007414879235270236
+train acc 0.9999335106382978
+test acc 0.9793
+---------epoch 61---------
+train loss 0.00045632190943226304
+test loss 0.007422729774632091
+train acc 0.9999335106382978
+test acc 0.9793
+---------epoch 62---------
+train loss 0.00044341169275696025
+test loss 0.0074341118748931885
+train acc 0.9999501329787234
+test acc 0.9793
+---------epoch 63---------
+train loss 0.0004312437720243065
+test loss 0.007444183273364038
+train acc 0.9999667553191489
+test acc 0.9793
+---------epoch 64---------
+train loss 0.00041926661625255735
+test loss 0.007451294994833051
+train acc 0.9999667553191489
+test acc 0.9794
+---------epoch 65---------
+train loss 0.0004084261650188415
+test loss 0.007460639902894759
+train acc 0.9999667553191489
+test acc 0.9794
+---------epoch 66---------
+train loss 0.00039757550149396506
+test loss 0.007466751983672749
+train acc 0.9999667553191489
+test acc 0.9794
+---------epoch 67---------
+train loss 0.00038740044425772364
+test loss 0.007478005252979874
+train acc 0.9999667553191489
+test acc 0.9794
+---------epoch 68---------
+train loss 0.0003776814450858789
+test loss 0.007484314561852899
+train acc 0.9999667553191489
+test acc 0.9795
+---------epoch 69---------
+train loss 0.0003683889840297031
+test loss 0.007495723999496543
+train acc 0.9999667553191489
+test acc 0.9795
+---------epoch 70---------
+train loss 0.0003595211355340296
+test loss 0.007502686076153224
+train acc 0.9999667553191489
+test acc 0.9795
+---------epoch 71---------
+train loss 0.00035100307553546115
+test loss 0.007511931066286151
+train acc 0.9999667553191489
+test acc 0.9795
+---------epoch 72---------
+train loss 0.00034288478952540583
+test loss 0.007520388489443294
+train acc 0.9999833776595745
+test acc 0.9795
+---------epoch 73---------
+train loss 0.0003350674732572027
+test loss 0.007529858125990748
+train acc 1.0
+test acc 0.9795
+---------epoch 74---------
+train loss 0.0003275911466740492
+test loss 0.007536050210882424
+train acc 1.0
+test acc 0.9795
+---------epoch 75---------
+train loss 0.00032035653215509966
+test loss 0.007546764908946892
+train acc 1.0
+test acc 0.9795
+---------epoch 76---------
+train loss 0.0003134836983007866
+test loss 0.00755154378537843
+train acc 1.0
+test acc 0.9795
+---------epoch 77---------
+train loss 0.0003067543048736924
+test loss 0.00756244828245325
+train acc 1.0
+test acc 0.9795
+---------epoch 78---------
+train loss 0.00030046544419200184
+test loss 0.007569891262656572
+train acc 1.0
+test acc 0.9796
+---------epoch 79---------
+train loss 0.00029424721741282974
+test loss 0.007578623232751268
+train acc 1.0
+test acc 0.9795
+---------epoch 80---------
+train loss 0.0002882917277395738
+test loss 0.007587011125699953
+train acc 1.0
+test acc 0.9797
+---------epoch 81---------
+train loss 0.00028255903669319605
+test loss 0.007594033877097932
+train acc 1.0
+test acc 0.9798
+---------epoch 82---------
+train loss 0.0002771079451800758
+test loss 0.007601444910884006
+train acc 1.0
+test acc 0.9798
+---------epoch 83---------
+train loss 0.0002717378060771164
+test loss 0.00760859156190746
+train acc 1.0
+test acc 0.9798
+---------epoch 84---------
+train loss 0.0002665861623836488
+test loss 0.007615733944144283
+train acc 1.0
+test acc 0.9798
+---------epoch 85---------
+train loss 0.00026162052627799623
+test loss 0.007624659779335757
+train acc 1.0
+test acc 0.9798
+---------epoch 86---------
+train loss 0.0002568143202964084
+test loss 0.007630972976298277
+train acc 1.0
+test acc 0.9799
+---------epoch 87---------
+train loss 0.0002522162735381478
+test loss 0.0076394267113156595
+train acc 1.0
+test acc 0.9799
+---------epoch 88---------
+train loss 0.00024766335490474916
+test loss 0.0076482238767552994
+train acc 1.0
+test acc 0.98
+---------epoch 89---------
+train loss 0.00024334005581046523
+test loss 0.007654649229151451
+train acc 1.0
+test acc 0.9801
+---------epoch 90---------
+train loss 0.00023912685029119887
+test loss 0.007662900436219259
+train acc 1.0
+test acc 0.9801
+---------epoch 91---------
+train loss 0.00023502988373100782
+test loss 0.00766955702149981
+train acc 1.0
+test acc 0.9801
+---------epoch 92---------
+train loss 0.00023101823454502906
+test loss 0.007676226960794205
+train acc 1.0
+test acc 0.9801
+---------epoch 93---------
+train loss 0.00022726597999088216
+test loss 0.007684075576435955
+train acc 1.0
+test acc 0.98
+---------epoch 94---------
+train loss 0.00022352229896966416
+test loss 0.007688981715020835
+train acc 1.0
+test acc 0.9801
+---------epoch 95---------
+train loss 0.00021988879600791028
+test loss 0.007696646772809267
+train acc 1.0
+test acc 0.98
+---------epoch 96---------
+train loss 0.00021640086388942517
+test loss 0.007703957239919968
+train acc 1.0
+test acc 0.98
+---------epoch 97---------
+train loss 0.00021299346334958385
+test loss 0.0077112375791376355
+train acc 1.0
+test acc 0.98
+---------epoch 98---------
+train loss 0.00020967949995815752
+test loss 0.007716985590900326
+train acc 1.0
+test acc 0.98
+---------epoch 99---------
+train loss 0.00020646695665056414
+test loss 0.007725359467908945
+train acc 1.0
+test acc 0.98
+---------epoch 100---------
+train loss 0.00020332750898507577
+test loss 0.007731535692413198
+train acc 1.0
+test acc 0.98
+---------epoch 101---------
+train loss 0.0002002848416240656
+test loss 0.007737780285968991
+train acc 1.0
+test acc 0.98
+---------epoch 102---------
+train loss 0.00019730371093330297
+test loss 0.007743382429670485
+train acc 1.0
+test acc 0.98
+---------epoch 103---------
+train loss 0.00019443910206018458
+test loss 0.0077508121818364376
+train acc 1.0
+test acc 0.98
+---------epoch 104---------
+train loss 0.00019163734030270714
+test loss 0.0077573981906741245
+train acc 1.0
+test acc 0.98
+---------epoch 105---------
+train loss 0.00018890142503071383
+test loss 0.0077621920802275245
+train acc 1.0
+test acc 0.9801
+---------epoch 106---------
+train loss 0.00018623783084755963
+test loss 0.007769522764733271
+train acc 1.0
+test acc 0.9801
+---------epoch 107---------
+train loss 0.00018361623347895256
+test loss 0.007775356844439259
+train acc 1.0
+test acc 0.9801
+---------epoch 108---------
+train loss 0.00018109152630827423
+test loss 0.007780682981880224
+train acc 1.0
+test acc 0.9802
+---------epoch 109---------
+train loss 0.00017863858759206914
+test loss 0.007788391712306006
+train acc 1.0
+test acc 0.9802
+---------epoch 110---------
+train loss 0.00017623311878546685
+test loss 0.007793033215992824
+train acc 1.0
+test acc 0.9802
+---------epoch 111---------
+train loss 0.00017386719433321566
+test loss 0.007800218532485478
+train acc 1.0
+test acc 0.9802
+---------epoch 112---------
+train loss 0.00017156944976416233
+test loss 0.007806700420226978
+train acc 1.0
+test acc 0.9802
+---------epoch 113---------
+train loss 0.00016934890807571694
+test loss 0.007813017741614341
+train acc 1.0
+test acc 0.9802
+---------epoch 114---------
+train loss 0.00016716010286107292
+test loss 0.007817574635603165
+train acc 1.0
+test acc 0.9802
+---------epoch 115---------
+train loss 0.0001650065081017563
+test loss 0.007825528835706648
+train acc 1.0
+test acc 0.9802
+---------epoch 116---------
+train loss 0.00016293139533821453
+test loss 0.007830328417051708
+train acc 1.0
+test acc 0.9802
+---------epoch 117---------
+train loss 0.00016092291193256608
+test loss 0.007837664086144749
+train acc 1.0
+test acc 0.9802
+---------epoch 118---------
+train loss 0.0001588817698187651
+test loss 0.007842047227562914
+train acc 1.0
+test acc 0.9803
+---------epoch 119---------
+train loss 0.00015694941457948294
+test loss 0.007848392612500863
+train acc 1.0
+test acc 0.9802
+---------epoch 120---------
+train loss 0.00015506806956957082
+test loss 0.007852920907779117
+train acc 1.0
+test acc 0.9803
+---------epoch 121---------
+train loss 0.00015318950186952364
+test loss 0.00785957031820606
+train acc 1.0
+test acc 0.9803
+---------epoch 122---------
+train loss 0.00015137108096876376
+test loss 0.007864310340928963
+train acc 1.0
+test acc 0.9803
+---------epoch 123---------
+train loss 0.0001495998836998572
+test loss 0.00787017134430174
+train acc 1.0
+test acc 0.9803
+---------epoch 124---------
+train loss 0.00014783614543268557
+test loss 0.007876392893911765
+train acc 1.0
+test acc 0.9803
+---------epoch 125---------
+train loss 0.00014614999883450012
+test loss 0.007881675895530689
+train acc 1.0
+test acc 0.9803
+---------epoch 126---------
+train loss 0.0001444763955323095
+test loss 0.007886797125064474
+train acc 1.0
+test acc 0.9803
+---------epoch 127---------
+/data/honglifeng/mnist/model.py:135: MatplotlibDeprecationWarning: Auto-removal of overlapping axes is deprecated since 3.6 and will be removed two minor releases later; explicitly call ax.remove() as needed.
+  plt.subplot(1,2,1)
+train loss 0.00014282483221153387
+test loss 0.007892108614734519
+train acc 1.0
+test acc 0.9803
+---------epoch 128---------
+train loss 0.0001412350492221414
+test loss 0.007898194422852193
+train acc 1.0
+test acc 0.9803
+---------epoch 129---------
+train loss 0.00013965626209476187
+test loss 0.007903057327391997
+train acc 1.0
+test acc 0.9802
+---------epoch 130---------
+train loss 0.00013811224859667633
+test loss 0.00790898697107933
+train acc 1.0
+test acc 0.9803
