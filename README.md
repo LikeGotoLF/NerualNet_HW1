@@ -3,6 +3,7 @@
 
 数据集为mnist，请自行下载并解压缩至NerualNet_HW1/data下，在mnist.py和model.py文件内修改路径。
 
+除了加载数据代码，所有实现均在model.py文件内。
 ```
 #训练模式
 python model.py train
@@ -39,6 +40,7 @@ W2表现了图像较高层的信息，开始出现一些小单位结构
 ### 测试部分
 ##### 模型文件百度云链接：链接: https://pan.baidu.com/s/1_FxGpt108flABy3bdjhNcA?pwd=yzyg 提取码: yzyg
 ##### 最终模型对测试集的预测准确率达到98.03%。
+
 
 ### 参数查找
 para_find函数
