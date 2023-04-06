@@ -23,3 +23,4 @@ python model.py test
 | epoch  | 130 | 周期 |
 
 训练结果可视化：
+https://github.com/LikeGotoLF/NerualNet_HW1/blob/main/loss_acc.jpg
